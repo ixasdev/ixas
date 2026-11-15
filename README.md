@@ -1,2 +1,2 @@
-# iXas
-ixas landing page
+# IXAS
+iXas landing page
